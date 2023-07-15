@@ -1,0 +1,36 @@
+  255  cd project/
+  256  git branch
+  257  git ls-files
+  258  git checkout dev 
+  259  git branch
+  260  git ls-files
+  261  git log
+  262  git ls-files
+  263  vi program.txt 
+  264  vim program.txt 
+  265  git history
+  266  history
+  267  git branch
+  268  git checkout master
+  269  git branch -m main
+  270  git branch
+  271  git status
+  272  git remote
+  273  git remote -v
+  274  git remote add origin https://github.com/amrendrapratapsingh/demodevops.git
+  275  git remote -v
+  276  git branch
+  277  git remote
+  278  git remote -v
+  279  git push -u origin main
+  280  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
+  281  git push -u origin main
+  282  git status
+  283  git branch
+  284  git checkout dev
+  285  git status
+  286  git ls-files
+  287  git branch
+  288  git checkout main
+  289  git branch
+  290  git push -u origin dev
